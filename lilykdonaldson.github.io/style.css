@@ -1,0 +1,67 @@
+#nametext {
+	  color: #2f1962;
+    text-align: center;
+    font-size: 8em;
+    font-family: 'Rock Salt', cursive;
+    line-height: 70%;
+}
+#csc {
+	font-family: 'Verdana';
+	text-align: center;
+	font-size 2em;
+	line-height: 200%;
+}
+#sketch1css {
+ position: absolute;
+  top: 320px;
+  left: 40px;
+}
+#sketch2css {
+ position: relative;
+  top: 550px;
+  left: 40px;
+
+}
+#sketch3css {
+ position: relative;
+  top: 195px;
+  left: 455px;
+
+}
+#sketch4css {
+ position: absolute;
+  top: 1250px;
+  left: 40px;
+
+}
+#sketch5css {
+ position: absolute;
+  top: 0px;
+  left: 420px;
+  padding-bottom: 40px;
+}
+#sketch6css {
+  position: absolute;
+  top: -250px;
+  left: 840px;
+}
+#biocss {
+  position: absolute;
+  top: -920px;
+  left: 840px;
+}
+#bio-name {
+  position: relative;
+  top: -420px;
+  text-align: center;
+}
+#bio-text {
+  position: relative;
+  top: -420px;
+  text-align: left;
+  margin-right: 35px;
+  margin-left: 35px;
+  font-family: 'Verdana';
+  font-size 2em;
+  line-height: 200%;
+}
